@@ -14,7 +14,7 @@ TCK Version, digital SHA-256 fingerprint and download URL:
 
 Public URL of TCK Results Summary:
 
-[AISWare Flying Server 2.0.0 TCK Results](https://cms.101test.com/ai_sino_info/en_us/preview_content_603710669.html)
+[AISWare Flying Server 2.0.0 TCK Results](https://cms.101test.com/ai_sino_info/en_us/content_603710669.html)
 
 
 Any Additional Specification Certification Requirements:
