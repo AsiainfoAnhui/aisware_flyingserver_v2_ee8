@@ -3,7 +3,7 @@ As required by the [Eclipse Foundation Technology Compatibility Kit License](htt
 
 ## AISWare FlyingServer 2.0.0 Full Profile Certification Summary
 Product Name, Version and download URL (if applicable):  
-AISWare Flying Server 2.0.0
+[AISWare Flying Server 2.0.0](https://cms.101test.com/ai_sino_info/zh_cn/content_603710660.html)
 
 Specification Name, Version and download URL:
 
@@ -14,7 +14,7 @@ TCK Version, digital SHA-256 fingerprint and download URL:
 
 Public URL of TCK Results Summary:
 
-[AISWare Flying Server 2.0.0 TCK Results](https://github.com/AsiainfoAnhui/aisware_flyingserver_v2_ee8.git/blob/master/aisware_flyingserver_v2_ee8.md)
+[AISWare Flying Server 2.0.0 TCK Results](https://cms.101test.com/ai_sino_info/en_us/preview_content_603710669.html)
 
 
 Any Additional Specification Certification Requirements:
