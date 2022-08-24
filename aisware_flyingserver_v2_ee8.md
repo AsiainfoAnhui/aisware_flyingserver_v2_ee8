@@ -3,7 +3,7 @@ As required by the [Eclipse Foundation Technology Compatibility Kit License](htt
 
 ## AISWare FlyingServer 2.0.0 Full Profile Certification Summary
 Product Name, Version and download URL (if applicable):  
-[AISWare Flying Server 2.0.0](http://asiainfoah.com/#/product/flyingserver)
+[AISWare Flying Server 2.0.0](http://www.antdb.net/product/flyingserver)
 
 Specification Name, Version and download URL:
 
