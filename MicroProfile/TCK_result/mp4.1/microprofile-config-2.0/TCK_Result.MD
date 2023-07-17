@@ -1,11 +1,11 @@
 - [x] Organization Name ("Organization") and, if applicable, URL:<br/>
      AsiaInfo
 - [x] Product Name, Version and download URL (if applicable):<br/>
-  flyingserver-micro-5.0.1
+  [flyingserver-micro-5.0.1](http://www.antdb.net/flyingserver)
 - [x] Specification Name, Version and download URL:<br/>
-  [microprofile-config-2.0](http://www.antdb.net/flyingserver)
+  [microprofile-config-2.0](https://download.eclipse.org/microprofile/microprofile-config-2.0/microprofile-config-spec-2.0.html)
 - [x] Public URL of TCK Results Summary:<br/>
-  [microprofile-config 2.0 TCK Result](https://github.com/AsiainfoAnhui/aisware_flyingserver_v2_ee8/MicroProfile/TCK_result/mp4.1/config/TCK_Result.html)
+  [microprofile-config 2.0 TCK Result](https://github.com/AsiainfoAnhui/aisware_flyingserver_v2_ee8/blob/master/MicroProfile/TCK_result/mp4.1/microprofile-config-2.0/TCK_Result.MD)
 - [x] Any Additional Specification Certification Requirements:<br/>
   Not Applicable
 - [x] Java runtime used to run the implementation:<br/>
