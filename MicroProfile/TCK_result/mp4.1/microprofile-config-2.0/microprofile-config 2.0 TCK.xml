@@ -371,4 +371,5 @@
   <testcase name="testConfigPropertiesWithPrefix" time="0.043" classname="org.eclipse.microprofile.config.tck.ConfigPropertiesTest"/>
   <testcase name="testConfigPropertiesWithoutPrefix" time="0.045" classname="org.eclipse.microprofile.config.tck.ConfigPropertiesTest"/>
   <testcase name="testNoConfigPropertiesAnnotationInjection" time="0.042" classname="org.eclipse.microprofile.config.tck.ConfigPropertiesTest"/>
+  
 </testsuite>
