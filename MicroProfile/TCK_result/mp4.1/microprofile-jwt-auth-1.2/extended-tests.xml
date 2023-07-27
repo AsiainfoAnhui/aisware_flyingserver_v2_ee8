@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="node1"  name="extended-tests" tests="6" failures="0" timestamp="2023-07-17T11:26:22 CST" time="0.05" errors="0">
+  <testcase name="callEjbEcho" time="0.008" classname="org.eclipse.microprofile.jwt.tck.container.ejb.EjbTest"/>
+  <testcase name="getSubjectClass" time="0.001" classname="org.eclipse.microprofile.jwt.tck.container.ejb.EjbTest"/>
+  <testcase name="testEJBPrincipalClass" time="0.001" classname="org.eclipse.microprofile.jwt.tck.container.ejb.EjbTest"/>
+  <testcase name="getSubjectClass" time="0.027" classname="org.eclipse.microprofile.jwt.tck.container.jacc.SubjectTest"/>
+  <testcase name="getServletPrincipalClass" time="0.001" classname="org.eclipse.microprofile.jwt.tck.container.servlet.ServletTest"/>
+  <testcase name="getServletSubjectClass" time="0.0" classname="org.eclipse.microprofile.jwt.tck.container.servlet.ServletTest"/>
+</testsuite> 
